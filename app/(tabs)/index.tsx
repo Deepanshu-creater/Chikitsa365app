@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, StatusBar, Platform } from 'react-native';
 export default function MyComponent() {
   return (
     <View style={[styles.container, { paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0 }]}>
-      <Text style={styles.text}>MyComponent Screen 🚀</Text>
+      <Text style={styles.text}>MyComponent🚀</Text>
     </View>
   );
 }

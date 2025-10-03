@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.deepanshusharma1909.Chikits365"
     },
     "web": {
       "output": "static",
@@ -49,6 +50,7 @@
       "eas": {
         "projectId": "c64f3cb7-aac0-46c4-84ee-2bd384599938"
       }
-    }
+    },
+    "owner": "deepanshusharma1909"
   }
 }
