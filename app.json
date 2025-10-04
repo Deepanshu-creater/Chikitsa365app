@@ -51,6 +51,12 @@
         "projectId": "c64f3cb7-aac0-46c4-84ee-2bd384599938"
       }
     },
-    "owner": "deepanshusharma1909"
+    "owner": "deepanshusharma1909",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c64f3cb7-aac0-46c4-84ee-2bd384599938"
+    }
   }
 }

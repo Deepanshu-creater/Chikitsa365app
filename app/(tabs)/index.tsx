@@ -10,6 +10,6 @@ export default function MyComponent() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#fff' },
+  container: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#ccda2dff' },
   text: { fontSize: 20, fontWeight: '600' }
 });
